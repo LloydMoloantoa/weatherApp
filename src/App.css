@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+
+.input {
+  padding: 10;
+  width: 40%;
+  margin: auto;
+}
+
+.input:focus {
+  outline: none;
+}
